@@ -23,30 +23,7 @@ para **\[benefício\]**\
 
 Explique com mais detalhes o contexto da funcionalidade.
 
-------------------------------------------------------------------------
-
-## Critérios de Aceitação
-
--   [ ] Critério 1
--   [ ] Critério 2
--   [ ] Critério 3
-
-------------------------------------------------------------------------
-
-## Regras de Negócio (se houver)
-
--   Regra 1
--   Regra 2
-
-------------------------------------------------------------------------
-
-## Definition of Done
-
--   [ ] Implementado
--   [ ] Testado
--   [ ] Documentado
-
-------------------------------------------------------------------------
+-----------------------------------------------
 
 ## Campos recomendados no Board
 
